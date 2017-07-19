@@ -1,6 +1,6 @@
 {
   "name": "sorting-helpers",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "description": "some small lib to help you sorting problem, i have bubblesort, selectionsort, and mergesort",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AntoniAngga/npm-sorting.git"
+    "url": "git+https://github.com/AntoniAngga/sorting-helpers.git"
   },
   "keywords": [
     "Sorting",
@@ -20,7 +20,7 @@
   "author": "Antoni Angga",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AntoniAngga/npm-sorting/issues"
+    "url": "https://github.com/AntoniAngga/sorting-helpers/issues"
   },
-  "homepage": "https://github.com/AntoniAngga/npm-sorting#readme"
+  "homepage": "https://github.com/AntoniAngga/sorting-helpers#readme"
 }
